@@ -1,3 +1,2 @@
 import React from 'react';
-
-app.get();
+import { App } from './App';
